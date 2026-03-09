@@ -25,4 +25,4 @@ More info [here](https://bosbes.eu.pythonanywhere.com/#story).
 
 ## License
 
-© 2025 Future Notes App. All rights reserved. 
+© 2025 Future Notes App. All rights reserved.HOMOOO 
